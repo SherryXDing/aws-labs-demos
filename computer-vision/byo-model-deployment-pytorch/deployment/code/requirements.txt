@@ -1,0 +1,6 @@
+scikit-learn
+scipy
+opencv-python
+# Detectron
+--find-links https://dl.fbaipublicfiles.com/detectron2/wheels/cu101/torch1.5/index.html
+detectron2
